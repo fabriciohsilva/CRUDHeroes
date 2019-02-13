@@ -36,7 +36,7 @@ lista de tudo o que foi utilizado para desenvolver
 
 ### Top Contributors
 
-| [<img src="https://avatars2.githubusercontent.com/u/22605031?s=460&v=4" width="100px;"/><br /><sub><b>Fabrício Henrique</b></sub>](http://fabriciohsilva.github.io/)<br />        | [<https://avatars1.githubusercontent.com/u/38701708?s=460&v=4" width="100px;"/><br /><sub><b>Iolanda Santos</b></sub>](https://www.linkedin.com/in/iolanda-maria-louren%C3%A7o-de-oliveira-santos-187131162/)<br /> | [<img src="https://avatars1.githubusercontent.com/u/47501771?s=460&v=4" width="100px;"/><br /><sub><b>Michele Silva</b></sub>](https://www.linkedin.com/in/michelehorasilva/)<br />          | [<img src="https://avatars2.githubusercontent.com/u/16840541?s=460&v=4" width="100px;"/><br /><sub><b>Thaysa Santos</b></sub>](https://thaymara.github.io/)<br />
+| [<img src="https://avatars2.githubusercontent.com/u/22605031?s=460&v=4" width="100px;"/><br /><sub><b>Fabrício Henrique</b></sub>](http://fabriciohsilva.github.io/)<br />        | [<img src="https://avatars1.githubusercontent.com/u/38701708?s=460&v=4" width="100px;"/><br /><sub><b>Iolanda Santos</b></sub>](https://www.linkedin.com/in/iolanda-maria-louren%C3%A7o-de-oliveira-santos-187131162/)<br /> | [<img src="https://avatars1.githubusercontent.com/u/47501771?s=460&v=4" width="100px;"/><br /><sub><b>Michele Silva</b></sub>](https://www.linkedin.com/in/michelehorasilva/)<br />          | [<img src="https://avatars2.githubusercontent.com/u/16840541?s=460&v=4" width="100px;"/><br /><sub><b>Thaysa Santos</b></sub>](https://thaymara.github.io/)<br />
 
 ### License
 
